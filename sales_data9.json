@@ -1,0 +1,274 @@
+{
+  "sales": [
+    {
+      "Customer_id": "101",
+      "Product_name": "Samsung Galaxy S23",
+      "Category": "Elektronik",
+      "Price": "15999.99",
+      "Purchase_date": "2024-06-08",
+      "Quantity_purchased": "2",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "102",
+      "Product_name": "Philips Airfryer XXL",
+      "Category": "Ev Aletleri",
+      "Price": "3499.90",
+      "Purchase_date": "2024-05-25",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "103",
+      "Product_name": "Nike Air Max 270",
+      "Category": "Ayakkabı",
+      "Price": "1899.00",
+      "Purchase_date": "2024-06-01",
+      "Quantity_purchased": "3",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "104",
+      "Product_name": "Apple Watch Series 8",
+      "Category": "Elektronik",
+      "Price": "7999.00",
+      "Purchase_date": "2024-05-20",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "105",
+      "Product_name": "KitchenAid Stand Mikser",
+      "Category": "Ev Aletleri",
+      "Price": "4599.00",
+      "Purchase_date": "2024-06-05",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "106",
+      "Product_name": "Adidas Erkek Tişört",
+      "Category": "Giyim",
+      "Price": "299.90",
+      "Purchase_date": "2024-05-30",
+      "Quantity_purchased": "5",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "107",
+      "Product_name": "Dyson V15 Detect",
+      "Category": "Ev Aletleri",
+      "Price": "8999.00",
+      "Purchase_date": "2024-06-02",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "108",
+      "Product_name": "Levi's 501 Jean",
+      "Category": "Giyim",
+      "Price": "799.00",
+      "Purchase_date": "2024-05-28",
+      "Quantity_purchased": "2",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "109",
+      "Product_name": "Sony WH-1000XM5",
+      "Category": "Elektronik",
+      "Price": "5999.00",
+      "Purchase_date": "2024-06-03",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "110",
+      "Product_name": "Tefal Yumurta Pişirici",
+      "Category": "Ev Aletleri",
+      "Price": "199.90",
+      "Purchase_date": "2024-05-29",
+      "Quantity_purchased": "3",
+      "Customer_satisfaction_score": 3
+    },
+    {
+      "Customer_id": "111",
+      "Product_name": "Puma Erkek Spor Ayakkabı",
+      "Category": "Ayakkabı",
+      "Price": "899.00",
+      "Purchase_date": "2024-06-04",
+      "Quantity_purchased": "2",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "112",
+      "Product_name": "LG 55'' 4K Smart TV",
+      "Category": "Elektronik",
+      "Price": "12999.00",
+      "Purchase_date": "2024-05-27",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "113",
+      "Product_name": "Bosch Çamaşır Makinesi",
+      "Category": "Ev Aletleri",
+      "Price": "7999.00",
+      "Purchase_date": "2024-06-06",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "114",
+      "Product_name": "Zara Kadın Ceket",
+      "Category": "Giyim",
+      "Price": "1299.00",
+      "Purchase_date": "2024-05-26",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "115",
+      "Product_name": "JBL Flip 6 Bluetooth Hoparlör",
+      "Category": "Elektronik",
+      "Price": "1499.00",
+      "Purchase_date": "2024-06-07",
+      "Quantity_purchased": "2",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "116",
+      "Product_name": "Arçelik Bulaşık Makinesi",
+      "Category": "Ev Aletleri",
+      "Price": "6999.00",
+      "Purchase_date": "2024-05-24",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "117",
+      "Product_name": "New Balance Kadın Spor Ayakkabı",
+      "Category": "Ayakkabı",
+      "Price": "1199.00",
+      "Purchase_date": "2024-06-08",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "118",
+      "Product_name": "Xiaomi Robot Süpürge",
+      "Category": "Ev Aletleri",
+      "Price": "3999.00",
+      "Purchase_date": "2024-05-23",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "119",
+      "Product_name": "Tommy Hilfiger Erkek Gömlek",
+      "Category": "Giyim",
+      "Price": "899.00",
+      "Purchase_date": "2024-06-09",
+      "Quantity_purchased": "3",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "120",
+      "Product_name": "Canon EOS R10 Fotoğraf Makinesi",
+      "Category": "Elektronik",
+      "Price": "18999.00",
+      "Purchase_date": "2024-05-22",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "121",
+      "Product_name": "Tefal Tost Makinesi",
+      "Category": "Ev Aletleri",
+      "Price": "499.90",
+      "Purchase_date": "2024-06-10",
+      "Quantity_purchased": "2",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "122",
+      "Product_name": "Adidas Kadın Eşofman Takımı",
+      
+      "Price": "799.00",
+      "Purchase_date": "2024-05-21",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "123",
+      "Product_name": "Sony PlayStation 5",
+      "Category": "Elektronik",
+      "Price": "14999.00",
+      "Purchase_date": "2024-06-11",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "124",
+      "Product_name": "Vestel Buzdolabı",
+      "Category": "Ev Aletleri",
+      "Price": "8999.00",
+      "Purchase_date": "2024-05-20",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "125",
+      "Product_name": "Nike Kadın Spor Ayakkabı",
+      "Category": "Ayakkabı",
+      "Price": "1599.00",
+      "Purchase_date": "2024-06-12",
+      "Quantity_purchased": "2",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "126",
+      "Product_name": "Huawei MatePad 11",
+      "Category": "Elektronik",
+      "Price": "8999.00",
+      "Purchase_date": "2024-05-19",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "127",
+      "Product_name": "Philips Elektrikli Süpürge",
+      "Category": "Ev Aletleri",
+      "Price": "2999.00",
+      "Purchase_date": "2024-06-13",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    },
+    {
+      "Customer_id": "128",
+      "Product_name": "Mango Kadın Elbise",
+      "Category": "Giyim",
+      "Price": "599.00",
+      "Purchase_date": "2024/05/18",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "129",
+      "Product_name": "GoPro Hero 11",
+      "Category": "Elektronik",
+      "Price": "6999.00",
+      "Purchase_date": "2024-06-14",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 5
+    },
+    {
+      "Customer_id": "130",
+      "Product_name": "Arzum Kahve Makinesi",
+      "Category": "Ev Aletleri",
+      "Price": "1499.00",
+      "Purchase_date": "2024-05-17",
+      "Quantity_purchased": "1",
+      "Customer_satisfaction_score": 4
+    }
+  ]
+}
